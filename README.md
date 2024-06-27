@@ -1,6 +1,5 @@
 # Mobile App with Flutter for Buicorporation's take‐home test Software Engineer
 
-For this documentation in French: :[![English](https://img.shields.io/badge/lang-French-blue.svg)](README.fr.md)
 #
 I completed three tasks for BuiCorporation's Software Engineer technical test (backend, frontend, and mobile), each in a different Git repository. This is the repo for the Mobile App task with Flutter.
 
