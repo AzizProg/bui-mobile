@@ -1,0 +1,52 @@
+{
+    "@@locale": "fr",
+    "appTitle": "Bui test mobile",
+    "@appTitle": {
+        "description": "Application mobile pour le test de Bui Corporation"
+    },
+    "loginAppBarText": "Connexion",
+    "usernameFieldText": "Nom d'utilisateur",
+    "passwordFieldText": "Mot de passe",
+    "loginSubmitButtonText": "Se connecter",
+    "loginNoAccount": "Pas de compte ? ",
+      "loginSignUpText": "Inscrivez-vous",
+
+    "signUpAppBarText": "Inscription",
+    "signUpSubmitButtonText": "S'inscrire",
+    "signAlreadyAnAccountText": "Vous avez déjà un compte ? ",
+    "signLogInText": "Connectez-vous",
+
+
+
+    "dashboardBalanceText": "Solde total",
+    "depositText": "Dépôt",
+    "buiTransferText": "Bui-Transfert",
+    "TransferText": "Transférer",
+    "othersServiceText": "Autres services",
+    "serviceAText": "Boostez votre volume de ventes en acceptant les paiements avec une seule API, facilement et en toute sécurité",
+    "serviceBText": "Bui Pay s'intègre facilement sur votre site web ou votre application mobile",
+    "serviceCText": "Suivi en temps réel de vos paiements grâce à notre tableau de bord",
+    "serviceDText": "Vous avez la possibilité de faire vos demandes de retrait vers votre compte bancaire ou mobile money en un instant",
+    "dashboardTransactionsText": "Transactions",
+    "dashboardNotTransactionsText": "Aucune transaction trouvée",
+
+
+    "detailsTransactionAppBarText": "Détails de la transaction",
+    "detailsTransactionAmountText": "Montant",
+    "detailsTransactionDateText": "Date",
+    "detailsTransactionTimeText": "Heure",
+    "detailsTransactionTypeText": "Type",
+    "detailsTransactionDescriptionText": "Description",
+       "detailsTransactionDescriptionUpdateButtonText":"Modifer",
+          "detailsTransactionDescriptionCancelButtonText":"Annuler",
+
+
+    "profileAppBarText": "Profil",
+    "profileDescriptionText": "Description",
+    "profileUsernameText": "Nom d'utilisateur",
+    "profileCreatedAtText": "Créé le",
+    "profileLogOutButtonText": "Se déconnecter",
+    "profileLanguagesText": "Langues",
+    "profileEnglishText": "Anglais",
+    "profileFrenchText": "Français"
+}

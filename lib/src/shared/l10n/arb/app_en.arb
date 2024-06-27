@@ -1,0 +1,57 @@
+{
+    "@@locale": "en",
+    "appTitle": "Bui test mobile",
+    "@appTitle": {
+        "description": "Bui mobile app test"
+    },
+
+     "loginAppBarText": "Login",
+      "usernameFieldText": "Username",
+      "passwordFieldText": "Password",
+      "loginSubmitButtonText": "Login",
+      "loginNoAccountText": "No account ? ",
+      "loginSignUpText": "sign up",
+
+
+      "signUpAppBarText": "SignUp",
+      "signUpSubmitButtonText": "SignUp",
+ "signAlreadyAnAccountText": "Already have an account ? ",
+      "signLogInText":"log in",
+
+
+      "dashboardBalanceText": "Total balance",
+      "depositText": "Deposit",
+      "buiTransferText": "Bui-Transfer",
+      "transferText": "Transfer",
+      "othersServiceText": "Others services",
+      "serviceAText": "Boost your sales volume by accepting payments with a single API with ease and security",
+      "serviceBText": "Bui Pay integrates easily on your website or your mobile application",
+      "serviceCText": "Real-time tracking of your payments thanks to our dashboard",
+      "serviceDText": "You have the possibility to make your withdrawal requests to your bank account or mobile money in an instant",
+      "dashboardTransactionsText":"Transactions",
+      "dashboardNotTransactionsText":"Not transactions found",
+
+
+      "detailsTransactionAppBarText":"Details transaction",
+      "detailsTransactionAmountText":"amount",
+      "detailsTransactionDateText":"Date",
+      "detailsTransactionTimeText":"Time",
+      "detailsTransactionTypeText":"Type",
+      "detailsTransactionDescriptionText":"Description",
+      "detailsTransactionDescriptionUpdateButtonText":"Update",
+      "detailsTransactionDescriptionCancelButtonText":"Cancel",
+
+
+      "profileAppBarText":"Profile",
+      "profileDescriptionText":"Description",
+      "profileUsernameText":"Username",
+      "profileCreatedAtText":"Created At",
+      "profileLogOutButtonText":"Log out",
+      "profileLanguagesText":"Languages",
+      "profileEnglishText":"English",
+      "profileFrenchText":"French",
+
+
+      "errorMessage":"'Error please try later'"
+
+}
