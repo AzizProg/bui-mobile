@@ -9,6 +9,8 @@ Others parts:
 * [Frontend with Next Js](https://github.com/AzizProg/bui-client)
 ---
 # Overview
+https://github.com/AzizProg/bui-client/assets/112016586/10560de5-78a2-4232-a133-f992d09b9046
+
 ---
 # Description
 
